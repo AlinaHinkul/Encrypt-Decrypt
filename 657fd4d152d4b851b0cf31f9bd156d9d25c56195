@@ -1,0 +1,21 @@
+
+¢
+java:S2159"ZRemove this call to "equals"; comparisons between an array and a type always return false.(Œçàîøÿÿÿÿ8ä·¤†‚2J$5680109b-a710-419e-97b6-245b3972003b
+¢
+java:S2159"ZRemove this call to "equals"; comparisons between an array and a type always return false.(¥Ðõòûÿÿÿÿ8æ·¤†‚2J$f7f63adb-e821-480c-87ef-445d1a92fe30
+~	java:S125"<This block of commented-out lines of code should be removed.(°ª¹‰8•„Œ‡‚2J$4c0fc578-39ca-47a1-ab33-c5a6313b673d
+r	java:S106%"+Replace this use of System.out by a logger.(ðÝÑ—þÿÿÿÿ8ž©”ê2J$afd40b9b-3c8b-4dab-ab12-71e8eadaf61a
+m	java:S106&"+Replace this use of System.out by a logger.(Ô“«¢8Ÿ©”ê2J$9670b7ca-31e5-4f39-8975-fa91fb36d3b6
+r	java:S106'"+Replace this use of System.out by a logger.(¯¬ˆ–þÿÿÿÿ8 ©”ê2J$ff8235b5-2168-4c54-9dff-4dd2ffc32503
+š
+java:S3776+"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÝëŒ²ÿÿÿÿÿ8¢©”ê2J$15acad24-236c-4fd4-8a6a-fe8ce31ab416
+m	java:S106\"+Replace this use of System.out by a logger.(€«¿8¬©”ê2J$a2d2ca9e-8340-4a67-a284-bf10e6c81628
+r	java:S106`"+Replace this use of System.out by a logger.(¼Õ‡”üÿÿÿÿ8®©”ê2J$fdbbc314-9374-42c5-8fea-8f695426aa36
+r	java:S106c"+Replace this use of System.out by a logger.(ÚäÉÉúÿÿÿÿ8¯©”ê2J$e794cf02-fa5f-4ed0-b3a0-d86968222fa3
+r	java:S106i"+Replace this use of System.out by a logger.(üµú°úÿÿÿÿ8±©”ê2J$212df0b7-1e19-4f9d-9e13-6f6ffccd05fd
+m	java:S106l"+Replace this use of System.out by a logger.(Ä–à¼8±©”ê2J$7c3a9c33-bfc9-47c8-ae99-37c82dda2ab9
+m	java:S106q"+Replace this use of System.out by a logger.(¥»«8²©”ê2J$83773c88-95c7-4731-b4b5-02392ce46483
+u
+java:S1128	"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8›¸¤†‚2J$d4a6286b-30cd-443e-b730-c54d23c6a521
+—
+java:S1128"URemove this unused import 'com.javarush.cryptoanalyser.Main.Alphabet.detectAlphabet'.(‡ðÈ8›¸¤†‚2J$13a86cf2-8b66-4395-9a77-5d10bcf275ca

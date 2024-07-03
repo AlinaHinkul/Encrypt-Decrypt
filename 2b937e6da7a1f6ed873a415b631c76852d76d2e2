@@ -1,0 +1,21 @@
+
+š
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").( í×­şÿÿÿÿJ$2fcce543-91d6-41e9-8edc-6a61df1f1367
+–
+java:S2259"U"NullPointerException" will be thrown when invoking method "calculateFrequencyMap()".(”ÖàùÿÿÿÿJ$5584f66b-5a1a-430d-b5ed-b730448dc9a9
+ˆ
+java:S2095$"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ŠËÌîJ$a3b3ced8-53c7-4717-a651-94bf0be9d65f
+f	java:S106"+Replace this use of System.out by a logger.(áá‰­J$78a80f87-b115-4f4b-ac08-dc3778cd2dbe
+f	java:S106"+Replace this use of System.out by a logger.(ãÂ…ÅJ$addebed8-9d22-402c-be6e-bc5807d1108b
+f	java:S106"+Replace this use of System.out by a logger.(‹ªó—J$9312924e-c6d4-43a1-a054-e79ad749b7b5
+€
+java:S21470"DCombine this catch with the one at line 46, which has the same body.(ï­£ÄJ$39b843f3-77aa-48da-be85-90fe3c276cf4
+u
+java:S3400H"9Remove this method and declare a constant for this value.(·åÚJ$45eaa2d3-5dce-493c-9ce5-207966a65c9f
+o
+java:S1172F"3Remove this unused method parameter "frequencyMap".(Õ÷™ÄJ$9f329c6c-9d31-4962-a98f-77d6b57d801f
+n
+java:S1135G"2Complete the task associated to this TODO comment.(”ì´ÕJ$88c75a7a-1d73-44cd-be91-915ac0ab4592
+s
+java:S1135L"2Complete the task associated to this TODO comment.(ô©¾»üÿÿÿÿJ$9c037bc1-a473-4ed3-b1db-2c4c08938a56
+e	java:S106R"+Replace this use of System.out by a logger.(üË±"J$38c73c9a-8a4d-4994-a1f0-10765705adb6
